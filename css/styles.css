@@ -366,7 +366,7 @@ img {
 
 .mob-menu-tel-link {
   font-style: normal;
-  font-size: 36px;
+  font-size: 26px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -960,7 +960,7 @@ img {
   top: 50%;
   left: 50%;
 
-  width: 392px;
+  width: 290px;
   min-height: 584px;
 
   border-radius: 4px;

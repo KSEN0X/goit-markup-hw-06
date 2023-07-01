@@ -390,6 +390,10 @@
     text-align: start;
   }
 
+  .about-text {
+    font-weight: 400;
+  }
+
   .about-icon-container {
     width: 264px;
     height: 112px;
